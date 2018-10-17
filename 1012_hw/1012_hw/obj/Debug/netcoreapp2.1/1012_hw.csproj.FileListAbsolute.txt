@@ -1,0 +1,11 @@
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\bin\Debug\netcoreapp2.1\1012_hw.deps.json
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\bin\Debug\netcoreapp2.1\1012_hw.runtimeconfig.json
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\bin\Debug\netcoreapp2.1\1012_hw.runtimeconfig.dev.json
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\bin\Debug\netcoreapp2.1\1012_hw.dll
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\bin\Debug\netcoreapp2.1\1012_hw.pdb
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.csproj.CoreCompileInputs.cache
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.AssemblyInfoInputs.cache
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.AssemblyInfo.cs
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.dll
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.pdb
+C:\Users\lyj_nb\Source\Repos\1012_hw\1012_hw\obj\Debug\netcoreapp2.1\1012_hw.csprojAssemblyReference.cache
